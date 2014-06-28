@@ -1,4 +1,4 @@
-package net.Avalanche.AVFreedom;
+package me.RetroCoders.DarkFreedom;
 
 import org.bukkit.entity.Player;
 import org.bukkit.util.Vector;
