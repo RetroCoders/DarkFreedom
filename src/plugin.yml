@@ -1,3 +1,5 @@
-#
-# TO BE DONE -ROBO
-#
+name: DarkFreedom
+main: me.RetroCoders.DarkFreedom
+version: 1.0
+description: A add-on for the TotalFreedomMod.
+authors: [PieGuy7896, R3CH4RG3D_]
